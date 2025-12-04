@@ -1,11 +1,11 @@
 <h2 align="left">Boas-vindas!</h2>
 
 <p align="left">
-Sou <strong>Júlio Nascimento Sales</strong>, desenvolvedor focado em <strong>automação, RPA e soluções internas</strong> que reduzem retrabalho e aumentam produtividade.  
+Sou <strong>Julio Nascimento Sales</strong>, desenvolvedor focado em <strong>automação, RPA e soluções internas</strong> que reduzem retrabalho e aumentam produtividade.  
 Tenho experiência prática construindo:
 
 <ul>
-  <li><strong>Robôs complexos em Python + Selenium</strong> (undetected-chromedriver, AntiCaptcha, OCR)</li>
+  <li><strong>Robôs em Python + Selenium</strong> (undetected-chromedriver, AntiCaptcha, OCR)</li>
   <li><strong>APIs em FastAPI</strong> integradas com MongoDB e JWT</li>
   <li><strong>Front-ends em Vue 3 + Vite + BootstrapVue3</strong></li>
   <li><strong>Sistemas corporativos completos</strong>, incluindo a Intranet Attentive</li>
