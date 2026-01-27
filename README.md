@@ -1,21 +1,26 @@
 <h2 align="left">Boas-vindas!</h2>
 
 <p align="left">
-Sou <strong>Julio Nascimento Sales</strong>, desenvolvedor focado em <strong>automação, RPA e soluções internas</strong> que reduzem retrabalho e aumentam produtividade.  
+Sou <strong>Julio Nascimento Sales</strong>, desenvolvedor focado em 
+<strong>automação de processos (RPA), APIs e soluções internas</strong> 
+que reduzem retrabalho e aumentam produtividade.<br>
 Tenho experiência prática construindo:
 
 <ul>
   <li><strong>Robôs em Python + Selenium</strong> (undetected-chromedriver, AntiCaptcha, OCR)</li>
-  <li><strong>APIs em FastAPI</strong> integradas com MongoDB e JWT</li>
-  <li><strong>Front-ends em Vue 3 + Vite + BootstrapVue3</strong></li>
-  <li><strong>Sistemas corporativos completos</strong>, incluindo a Intranet Attentive</li>
-  <li><strong>Arquitetura AWS</strong> (EC2, S3, ALB, CloudFront, Docker, SQS)</li>
-  <li><strong>Integração de automações</strong> de alto volume com filas assíncronas</li>
+  <li><strong>APIs modernas em FastAPI</strong> integradas com MongoDB e autenticação JWT</li>
+  <li><strong>Front-ends corporativos</strong> com Vue 3 + Vite + BootstrapVue3</li>
+  <li><strong>Sistemas internos completos</strong>, incluindo intranets corporativas</li>
+  <li><strong>Arquitetura e deploy em AWS</strong> (EC2, S3, ALB, CloudFront, Docker, SQS)</li>
+  <li><strong>Orquestração de automações</strong> de alto volume com filas assíncronas</li>
 </ul>
 
-Atualmente lidero o desenvolvimento da <strong>Intranet Attentive</strong>, conectando departamentos, automações fiscais, comunicação interna, gestão de colaboradores e painéis inteligentes.
+Atuo no desenvolvimento de soluções que integram departamentos, automatizam
+processos fiscais e operacionais e criam bases tecnológicas escaláveis
+para empresas.
 
-Sou apaixonado por <strong>tecnologia, IA aplicada, otimização de processos</strong> e pelo desenvolvimento de soluções que realmente fazem diferença no dia a dia das equipes.
+Sou apaixonado por <strong>tecnologia, automação, IA aplicada</strong> e pela
+criação de soluções que resolvem problemas reais no dia a dia das equipes.
 </p>
 
 ###
